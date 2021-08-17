@@ -1,4 +1,4 @@
-# node
+# node:latest
 Node repo for building image to store at GitHub
 
 # node:10.16.3
